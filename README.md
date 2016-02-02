@@ -1,0 +1,1 @@
+# static-variable-test-in-C-
